@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
-# cwd=`dirname "${0}"`
+# cwd=`dirname $0`
 
-scala -classpath /usr/local/bin/hashcal_ HashCal $1 $2 $3
+scala -classpath /usr/local/bin/hashcal_ HashCal $@
