@@ -29,11 +29,4 @@ object HashCal {
     .map { "%02x".format(_) }
     .foldLeft(""){_ + _}
   }
-
-  def interactive(): Unit = {
-    print("hashcal >> ")
-    Console.readLine()
-    
-
-  }
 }
