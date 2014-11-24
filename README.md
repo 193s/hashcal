@@ -2,7 +2,7 @@
 
 Hash!!!!!
 
-# Installation
+# Install
 ```
 $ git clone https://github.com/193s/hashcal
 $ cd hashcal
@@ -11,10 +11,6 @@ $ make install
 ```
 
 # Usage
-```
-$ hashcal <string>
-```
-or
-```
-$ hashcal -md5 <string>
-```
+```$ hashcal <string>```
+||
+```$ hashcal -md5 <string>```
