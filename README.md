@@ -1,6 +1,6 @@
 #hashcal
 
-Hash!!!!!
+Simple Hashing Tool
 
 # Install
 ```
